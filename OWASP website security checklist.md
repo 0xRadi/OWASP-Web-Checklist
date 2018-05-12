@@ -3,7 +3,10 @@
 ## Table of Contents
 
 * [Information Gathering](#Information)
+* [Authentication](#Authentication)
+* [Session](#Session)
 
+-------
 ### <a name="Information">Information Gathering</a>
 - [ ] Manually explore the site
 - [ ] Manually explore the site
@@ -37,3 +40,26 @@
 - [ ] Check session tokens only delivered over HTTPS
 - [ ] Check if HTTP Strict Transport Security (HSTS) in use
 
+-------
+
+### <a name="Authentication">Authentication</a>
+- [ ] Test for user enumeration
+- [ ] Test for authentication bypass
+- [ ] Test for bruteforce protection
+- [ ] Test password quality rules
+- [ ] Test remember me functionality
+- [ ] Test for autocomplete on password forms/input
+- [ ] Test password reset and/or recovery
+- [ ] Test password change process
+- [ ] Test CAPTCHA
+- [ ] Test multi factor authentication
+- [ ] Test for logout functionality presence
+- [ ] Test for cache management on HTTP (eg Pragma, Expires, Max-age)
+- [ ] Test for default logins
+- [ ] Test for user-accessible authentication history
+- [ ] Test for out-of channel notification of account lockouts and successful password changes
+- [ ] Test for consistent authentication across applications with shared authentication schema / SSO
+
+-------
+
+### <a name="Session">Session Management</a>
