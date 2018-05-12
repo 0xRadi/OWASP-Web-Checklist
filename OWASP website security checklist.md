@@ -137,56 +137,56 @@
 - [ ] Test for NULL/Invalid Session Cookie
 
 ### <a name="Denial">Denial of Service</a>
-Test for anti-automation
-Test for account lockout
-Test for HTTP protocol DoS
-Test for SQL wildcard DoS
+- [ ] Test for anti-automation
+- [ ] Test for account lockout
+- [ ] Test for HTTP protocol DoS
+- [ ] Test for SQL wildcard DoS
 
 
 ### <a name="Business">Business Logic</a>
-Test for feature misuse
-Test for lack of non-repudiation
-Test for trust relationships
-Test for integrity of data
-Test segregation of duties
+- [ ] Test for feature misuse
+- [ ] Test for lack of non-repudiation
+- [ ] Test for trust relationships
+- [ ] Test for integrity of data
+- [ ] Test segregation of duties
 
 
 ### <a name="Denial">Cryptography</a>
-Check if data which should be encrypted is not
-Check for wrong algorithms usage depending on context
-Check for weak algorithms usage
-Check for proper use of salting
-Check for randomness functions
+- [ ] Check if data which should be encrypted is not
+- [ ] Check for wrong algorithms usage depending on context
+- [ ] Check for weak algorithms usage
+- [ ] Check for proper use of salting
+- [ ] Check for randomness functions
 
 
 ### <a name="File">Risky Functionality - File Uploads</a>
-Test that acceptable file types are whitelisted
-Test that file size limits, upload frequency and total file counts are defined and are enforced
-Test that file contents match the defined file type
-Test that all file uploads have Anti-Virus scanning in-place.
-Test that unsafe filenames are sanitised
-Test that uploaded files are not directly accessible within the web root
-Test that uploaded files are not served on the same hostname/port
-Test that files and other media are integrated with the authentication and authorisation schemas
+- [ ] Test that acceptable file types are whitelisted
+- [ ] Test that file size limits, upload frequency and total file counts are defined and are enforced
+- [ ] Test that file contents match the defined file type
+- [ ] Test that all file uploads have Anti-Virus scanning in-place.
+- [ ] Test that unsafe filenames are sanitised
+- [ ] Test that uploaded files are not directly accessible within the web root
+- [ ] Test that uploaded files are not served on the same hostname/port
+- [ ] Test that files and other media are integrated with the authentication and authorisation schemas
 
 
 ### <a name="Card">Risky Functionality - Card Payment</a>
-Test for known vulnerabilities and configuration issues on Web Server and Web Application
-Test for default or guessable password
-Test for non-production data in live environment, and vice-versa
-Test for Injection vulnerabilities
-Test for Buffer Overflows
-Test for Insecure Cryptographic Storage
-Test for Insufficient Transport Layer Protection
-Test for Improper Error Handling
-Test for all vulnerabilities with a CVSS v2 score > 4.0
-Test for Authentication and Authorization issues
-Test for CSRF
+- [ ] Test for known vulnerabilities and configuration issues on Web Server and Web Application
+- [ ] Test for default or guessable password
+- [ ] Test for non-production data in live environment, and vice-versa
+- [ ] Test for Injection vulnerabilities
+- [ ] Test for Buffer Overflows
+- [ ] Test for Insecure Cryptographic Storage
+- [ ] Test for Insufficient Transport Layer Protection
+- [ ] Test for Improper Error Handling
+- [ ] Test for all vulnerabilities with a CVSS v2 score > 4.0
+- [ ] Test for Authentication and Authorization issues
+- [ ] Test for CSRF
 
 
 ### <a name="HTML">HTML 5</a>
 HTML 5:
-Test Web Messaging
-Test for Web Storage SQL injection
-Check CORS implementation
-Check Offline Web Application
+- [ ] Test Web Messaging
+- [ ] Test for Web Storage SQL injection
+- [ ] Check CORS implementation
+- [ ] Check Offline Web Application
