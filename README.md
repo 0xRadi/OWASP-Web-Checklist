@@ -6,4 +6,4 @@ A List of Web Application Security Checklists.
 
 
 ## Table of Contents
- * [OWASP Web Application Security Testing Checklist](OWASP%20Web%20Application%20Security%20Testing%20Checklist.md)
+ * [OWASP Web Application Security Testing Checklist](OWASP/OWASP%20Web%20Application%20Security%20Testing%20Checklist.md)
