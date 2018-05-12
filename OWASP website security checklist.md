@@ -42,7 +42,7 @@
 - [ ] Check session tokens only delivered over HTTPS
 - [ ] Check if HTTP Strict Transport Security (HSTS) in use
 
--------
+
 
 ### <a name="Authentication">Authentication</a>
 - [ ] Test for user enumeration
@@ -62,7 +62,7 @@
 - [ ] Test for out-of channel notification of account lockouts and successful password changes
 - [ ] Test for consistent authentication across applications with shared authentication schema / SSO
 
--------
+
 
 ### <a name="Session">Session Management</a>
 - [ ] Establish how session management is handled in the application (eg, tokens in cookies, token in URL)
@@ -79,7 +79,7 @@
 - [ ] Test for session puzzling
 - [ ] Test for CSRF and clickjacking
 
--------
+
 
 ### <a name="Authorization">Authorization</a>
 - [ ] Test for path traversal
@@ -88,7 +88,7 @@
 - [ ] Test for horizontal Access control problems (between two users at the same privilege level)
 - [ ] Test for missing authorization
 
--------
+
 ### <a name="Validation">Data Validation</a>
 - [ ] Test for Reflected Cross Site Scripting
 - [ ] Test for Stored Cross Site Scripting
