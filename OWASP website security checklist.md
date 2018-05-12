@@ -63,3 +63,16 @@
 -------
 
 ### <a name="Session">Session Management</a>
+- [ ] Establish how session management is handled in the application (eg, tokens in cookies, token in URL)
+- [ ] Check session tokens for cookie flags (httpOnly and secure)
+- [ ] Check session cookie scope (path and domain)
+- [ ] Check session cookie duration (expires and max-age)
+- [ ] Check session termination after a maximum lifetime
+- [ ] Check session termination after relative timeout
+- [ ] Check session termination after logout
+- [ ] Test to see if users can have multiple simultaneous sessions
+- [ ] Test session cookies for randomness
+- [ ] Confirm that new session tokens are issued on login, role change and logout
+- [ ] Test for consistent session management across applications with shared session management
+- [ ] Test for session puzzling
+- [ ] Test for CSRF and clickjacking
