@@ -1,4 +1,5 @@
 # OWASP Web Application Security Testing Checklist
+- Available in [PDF](OWASP%20Web%20Application%20Security%20Testing%20Checklist.pdf) or [Docx](OWASP%20Web%20Application%20Security%20Testing%20Checklist.docx) for printing
 
 ## Table of Contents
 
@@ -151,7 +152,7 @@
 - [ ] Test segregation of duties
 
 
-### <a name="Denial">Cryptography</a>
+### <a name="Cryptography">Cryptography</a>
 - [ ] Check if data which should be encrypted is not
 - [ ] Check for wrong algorithms usage depending on context
 - [ ] Check for weak algorithms usage
