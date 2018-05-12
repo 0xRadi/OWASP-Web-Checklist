@@ -1,4 +1,4 @@
-# OWASP website security checklist
+# OWASP Web Application Security Testing Checklist
 
 ## Table of Contents
 
