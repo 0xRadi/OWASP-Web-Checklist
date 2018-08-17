@@ -111,6 +111,7 @@
 - [ ] Test for Cross Site Flashing
 - [ ] Test for HTML Injection
 - [ ] Test for SQL Injection
+- [ ] Test for SOQL Injection
 - [ ] Test for LDAP Injection
 - [ ] Test for ORM Injection
 - [ ] Test for XML Injection
