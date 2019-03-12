@@ -20,7 +20,6 @@
 -------
 ### <a name="Information">Information Gathering</a>
 - [ ] Manually explore the site
-- [ ] Manually explore the site
 - [ ] Spider/crawl for missed or hidden content
 - [ ] Check for files that expose content, such as robots.txt, sitemap.xml, .DS_Store
 - [ ] Check the caches of major search engines for publicly accessible sites
